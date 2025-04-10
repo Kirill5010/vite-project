@@ -1,0 +1,11 @@
+.my-button {
+   padding: 10px 20px;
+   background: transparent;
+   border: 2px solid black;
+   border-radius: 20px;
+}
+
+.active {
+   background-color: black;
+   color: white;
+}

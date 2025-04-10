@@ -1,0 +1,14 @@
+.section-welcome {
+   width: 100%;
+}
+.section-welcome-content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   row-gap: 30px;
+}
+
+.section-welcome-content p {
+   text-align: center;
+}
